@@ -1,6 +1,7 @@
 # 4301_CFM
  Data for Fresh MARTA Markets project headed by Dr. Hilary King.
 
+Start with the "MARTA_Stops&Routes" spreadsheet. See the "README" tab for a list of next steps. 
 
 "GTFS-10222020_RawData" is the .zip file pulled from the MARTA website. 
 
@@ -10,4 +11,5 @@
 
 "MARTA_Data" contains all outputs of the python file in .csv format ("to_csv" command in jupyter notebook).
 
-These outputs were used to create the spreadsheet. 
+These outputs were used to create the "MARTA_Stops&Routes" spreadsheet. 
+
